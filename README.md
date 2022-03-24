@@ -1,4 +1,4 @@
 # Serity-Remaster
 
 
-![image info](./assets/db.png)
+![image info](./assets/db.jpg)
